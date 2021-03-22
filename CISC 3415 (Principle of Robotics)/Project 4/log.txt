@@ -1,0 +1,2009 @@
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.8
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.8
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: 0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+Speed: 1
+Turn rate: -0.4
+The most accurate hypothesis is
+X: -1.66024
+Y: -5.52591
+A: -0.472995
+W: 1
+Success Localization
+I am 100% sure that I am at (-1.66024, -5.52591)
